@@ -84,7 +84,7 @@ export default function Login({ navigation }) {
         />
         <Pressable style={styles.buttonStyle}>
           <Button 
-            title="Register"
+            title="Login"
             onPress={handlePressLogin}
           />
         </Pressable>
